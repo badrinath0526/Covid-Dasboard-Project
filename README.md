@@ -2,3 +2,4 @@ A Mini-Project showing the details regarding Covid 19 cases in India to demonstr
 
 This Project shows the details of all covid 19 cases that are registered until November,2021 in India.
 
+You can visit the website here : "https://badreenath.ccbp.tech/"
